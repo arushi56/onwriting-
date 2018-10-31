@@ -27,5 +27,5 @@
 
 ## Interviews 
 
-[Tips for Job Market](https://economics.harvard.edu/files/economics/files/jobmarketadvicehandout.doc.pdf) by Harvard Econ
+[Tips for Job Market](https://economics.harvard.edu/files/economics/files/jobmarketadvicehandout.doc.pdf) by Harvard Economics
 
