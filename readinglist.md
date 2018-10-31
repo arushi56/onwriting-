@@ -15,4 +15,4 @@
 
 [An Economist's Guide to Visualizing Data](https://pubs.aeaweb.org/doi/pdf/10.1257/jep.28.1.209) by Jonathan A. Schwabish 
 
-[Making slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/) by Kieran Healy
+[Making Slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/) by Kieran Healy
