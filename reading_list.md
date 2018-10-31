@@ -50,4 +50,6 @@
 
 [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf) by David A. Patterson
 
+[Tantalus on the Road to Asymptopia](http://www.anderson.ucla.edu/faculty_pages/edward.leamer/selected_research/Tantalus%20by%20Leamer.pdf) by Edward E. Leamer
+
 [Cargo Cult Science (a.k.a. Feynman Integrity)](http://calteches.library.caltech.edu/51/2/CargoCult.htm) By Richard Feynman 
