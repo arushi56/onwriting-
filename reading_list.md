@@ -19,7 +19,7 @@
 
 ## Presentations 
 
-[How to Give a Job Talk](https://huber.research.yale.edu/materials/HowToGiveAJobTalk.pdf) by Gregory Huber, Yale University
+[How to Give a Job Talk](https://huber.research.yale.edu/materials/HowToGiveAJobTalk.pdf) by Gregory Huber
 
 [The Job Talk and Campus Visit](http://sociology.berkeley.edu/sites/default/files/documents/job_market/4--%20job%20talk%20%26%20campus%20visit.pdf) by UC Berkeley Sociology 
 
