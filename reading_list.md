@@ -16,6 +16,7 @@
 
 [On the Art of Writing Proposals](https://www.ssrc.org/publications/view/7A9CB4F4-815F-DE11-BD80-001CC477EC70/) by Adam Przeworski and Frank Salomon
 
+
 ## Data visualization
 
 ### In papers
@@ -25,6 +26,7 @@
 ### In presentations 
 
 [Making Slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/) by Kieran Healy
+
 
 ## Presentations 
 
