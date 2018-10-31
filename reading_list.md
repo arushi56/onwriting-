@@ -18,11 +18,17 @@
 
 ## Data visualization
 
+### In papers
+
 [An Economist's Guide to Visualizing Data](https://pubs.aeaweb.org/doi/pdf/10.1257/jep.28.1.209) by Jonathan A. Schwabish 
+
+### In presentations 
 
 [Making Slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/) by Kieran Healy
 
 ## Presentations 
+
+### Job talks
 
 [How to Give a Job Talk](https://huber.research.yale.edu/materials/HowToGiveAJobTalk.pdf) by Gregory Huber
 
