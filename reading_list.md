@@ -21,7 +21,7 @@
 
 [The Job Talk and Campus Visit](http://sociology.berkeley.edu/sites/default/files/documents/job_market/4--%20job%20talk%20%26%20campus%20visit.pdf) by UC Berkeley Sociology 
 
-- Job talk can fail when:
+- A job talk can fail when:
     - The structure is incomplete or doesn't work. 
     - The person didn't practice the talk.
     - The person cannot answer the questions.
