@@ -49,3 +49,5 @@
 # 4. Academic 
 
 [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf) by David A. Patterson
+
+[Cargo Cult Science (a.k.a. Feynman Integrity](http://calteches.library.caltech.edu/51/2/CargoCult.htm) By Richard Feynman 
