@@ -1,6 +1,7 @@
 
-## Academic papers 
+## Writing papers and proposals 
 
+### Papers 
 [Caltech Rules for Writing Papers](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf) by Barry R. Weingast
 
 [Writing Economic Theory Papers](http://www.econ.ucla.edu/sboard/teaching/contracts/WritingEconomicTheory.pdf) by Simon Board and Moritz Meyer-ter-Vehn
@@ -10,6 +11,10 @@
 [Economic Writing: An Executive Summary](https://www.deirdremccloskey.com/docs/pdf/Article_309.pdf) by Deirdre McCloskey
 
 [Fuck Nuance](https://kieranhealy.org/files/papers/fuck-nuance.pdf) by Kieran Healy 
+
+### Proposals 
+
+[On the Art of Writing Proposals](https://www.ssrc.org/publications/view/7A9CB4F4-815F-DE11-BD80-001CC477EC70/) by Adam Przeworski and Frank Salomon
 
 ## Data visualization
 
