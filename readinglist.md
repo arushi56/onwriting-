@@ -8,3 +8,7 @@
 [Three Templates for Introductions in Political Science Articles](http://www.andrewtlittle.com/papers/little_intros.pdf) by Andrew T. Little
 
 [Fuck Nuance](https://kieranhealy.org/files/papers/fuck-nuance.pdf) by Kieran Healy 
+
+## Data visualization
+
+[An Economist's Guide to Visualizing Data](https://pubs.aeaweb.org/doi/pdf/10.1257/jep.28.1.209) by Jonathan A. Schwabish 
