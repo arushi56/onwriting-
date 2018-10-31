@@ -38,6 +38,8 @@
 
 [Job talks](http://webcache.googleusercontent.com/search?q=cache:qX78OZELEZsJ:home.uchicago.edu/~lausland/docs/Jobtalks.doc+&cd=42&hl=en&ct=clnk&gl=us) by the University of Chicago
 
+[Giving an Academic Talk](https://people.eecs.berkeley.edu/~jrs/speaking.html) by Jonathan Schewchuk 
+
 ## 3.2. Interviews 
 
 [Tips for Job Market](https://economics.harvard.edu/files/economics/files/jobmarketadvicehandout.doc.pdf) by Harvard Economics
