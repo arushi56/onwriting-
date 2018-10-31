@@ -14,7 +14,7 @@
 
 ### 1.2. Proposals 
 
-[On the Art of Writing Proposals](https://www.ssrc.org/publications/view/7A9CB4F4-815F-DE11-BD80-001CC477EC70/) by Adam Przeworski and Frank Salomon
+[On the Art of Writing Proposals](https://www.ssrc.org/publications/view/7A9CB4F4-815F-DE11-BD80-001CC477EC70/) by Adam Przeworski and Frank Salomon\
 
 
 ## 2. Data visualization
