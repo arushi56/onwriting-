@@ -25,3 +25,7 @@
 
 [Job talks](http://webcache.googleusercontent.com/search?q=cache:qX78OZELEZsJ:home.uchicago.edu/~lausland/docs/Jobtalks.doc+&cd=42&hl=en&ct=clnk&gl=us) by the University of Chicago
 
+## Interviews 
+
+[Tips for Job Market](https://economics.harvard.edu/files/economics/files/jobmarketadvicehandout.doc.pdf) by Harvard Econ
+
