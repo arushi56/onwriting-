@@ -1,7 +1,7 @@
 
-## Writing papers and proposals 
+## 1. Writing papers and proposals 
 
-### Papers 
+### 1.1. Papers 
 [Caltech Rules for Writing Papers](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf) by Barry R. Weingast
 
 [Writing Economic Theory Papers](http://www.econ.ucla.edu/sboard/teaching/contracts/WritingEconomicTheory.pdf) by Simon Board and Moritz Meyer-ter-Vehn
@@ -12,25 +12,25 @@
 
 [Fuck Nuance](https://kieranhealy.org/files/papers/fuck-nuance.pdf) by Kieran Healy 
 
-### Proposals 
+### 1.2. Proposals 
 
 [On the Art of Writing Proposals](https://www.ssrc.org/publications/view/7A9CB4F4-815F-DE11-BD80-001CC477EC70/) by Adam Przeworski and Frank Salomon
 
 
-## Data visualization
+## 2. Data visualization
 
-### In papers
+### 2.1. In papers
 
 [An Economist's Guide to Visualizing Data](https://pubs.aeaweb.org/doi/pdf/10.1257/jep.28.1.209) by Jonathan A. Schwabish 
 
-### In presentations 
+### 2.2. In presentations 
 
 [Making Slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/) by Kieran Healy
 
 
-## Presentations 
+## 3. Presentations 
 
-### Job talks
+### 3.1. Job talks
 
 [How to Give a Job Talk](https://huber.research.yale.edu/materials/HowToGiveAJobTalk.pdf) by Gregory Huber
 
@@ -38,7 +38,6 @@
 
 [Job talks](http://webcache.googleusercontent.com/search?q=cache:qX78OZELEZsJ:home.uchicago.edu/~lausland/docs/Jobtalks.doc+&cd=42&hl=en&ct=clnk&gl=us) by the University of Chicago
 
-## Interviews 
+## 3.2. Interviews 
 
 [Tips for Job Market](https://economics.harvard.edu/files/economics/files/jobmarketadvicehandout.doc.pdf) by Harvard Economics
-
