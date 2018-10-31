@@ -10,6 +10,8 @@
 
 [Economic Writing: An Executive Summary](https://www.deirdremccloskey.com/docs/pdf/Article_309.pdf) by Deirdre McCloskey
 
+[Writing Research Papers](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/writing.pdf) by Aaron Hertzmann
+
 [Fuck Nuance](https://kieranhealy.org/files/papers/fuck-nuance.pdf) by Kieran Healy 
 
 ## 1.2. Proposals 
