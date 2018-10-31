@@ -46,6 +46,6 @@
 
 [Tips for Job Market](https://economics.harvard.edu/files/economics/files/jobmarketadvicehandout.doc.pdf) by Harvard Economics
 
-# Academic 
+# 4. Academic 
 
 [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf) by David A. Patterson
