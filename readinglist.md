@@ -7,8 +7,12 @@
 
 [Three Templates for Introductions in Political Science Articles](http://www.andrewtlittle.com/papers/little_intros.pdf) by Andrew T. Little
 
+[Economic Writing: An Executive Summary](https://www.deirdremccloskey.com/docs/pdf/Article_309.pdf) by Deirdre McCloskey
+
 [Fuck Nuance](https://kieranhealy.org/files/papers/fuck-nuance.pdf) by Kieran Healy 
 
 ## Data visualization
 
 [An Economist's Guide to Visualizing Data](https://pubs.aeaweb.org/doi/pdf/10.1257/jep.28.1.209) by Jonathan A. Schwabish 
+
+[Making slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/) by Kieran Healy
