@@ -1,7 +1,7 @@
 
-## 1. Writing papers and proposals 
+# 1. Writing papers and proposals 
 
-### 1.1. Papers 
+## 1.1. Papers 
 [Caltech Rules for Writing Papers](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf) by Barry R. Weingast
 
 [Writing Economic Theory Papers](http://www.econ.ucla.edu/sboard/teaching/contracts/WritingEconomicTheory.pdf) by Simon Board and Moritz Meyer-ter-Vehn
@@ -12,25 +12,25 @@
 
 [Fuck Nuance](https://kieranhealy.org/files/papers/fuck-nuance.pdf) by Kieran Healy 
 
-### 1.2. Proposals 
+## 1.2. Proposals 
 
 [On the Art of Writing Proposals](https://www.ssrc.org/publications/view/7A9CB4F4-815F-DE11-BD80-001CC477EC70/) by Adam Przeworski and Frank Salomon
 
 
-## 2. Data visualization
+# 2. Data visualization
 
-### 2.1. In papers
+## 2.1. In papers
 
 [An Economist's Guide to Visualizing Data](https://pubs.aeaweb.org/doi/pdf/10.1257/jep.28.1.209) by Jonathan A. Schwabish 
 
-### 2.2. In presentations 
+## 2.2. In presentations 
 
 [Making Slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/) by Kieran Healy
 
 
-## 3. Presentations 
+# 3. Presentations 
 
-### 3.1. Job talks
+## 3.1. Job talks
 
 [How to Give a Job Talk](https://huber.research.yale.edu/materials/HowToGiveAJobTalk.pdf) by Gregory Huber
 
