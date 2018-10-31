@@ -19,4 +19,9 @@
 
 ## Presentations 
 
+[How to Give a Job Talk] by Gregory Huber, Yale University
+
 [The Job Talk and Campus Visit](http://sociology.berkeley.edu/sites/default/files/documents/job_market/4--%20job%20talk%20%26%20campus%20visit.pdf) by UC Berkeley Sociology 
+
+[Job talks](http://webcache.googleusercontent.com/search?q=cache:qX78OZELEZsJ:home.uchicago.edu/~lausland/docs/Jobtalks.doc+&cd=42&hl=en&ct=clnk&gl=us) by the University of Chicago
+
