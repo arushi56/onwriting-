@@ -8,6 +8,8 @@
 ## 1.1. Papers 
 [Caltech Rules for Writing Papers](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf) by Barry R. Weingast
 
+[Professional Writing in Political Science: A Highly Opinionated Essay](http://stimson.web.unc.edu/files/2018/02/Writing.pdf) by James A. Stimson
+
 [Writing Economic Theory Papers](http://www.econ.ucla.edu/sboard/teaching/contracts/WritingEconomicTheory.pdf) by Simon Board and Moritz Meyer-ter-Vehn
 
 [How to Build an Economic Model in Your Spare Time](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf) by Hal Varian
