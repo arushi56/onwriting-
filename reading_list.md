@@ -12,8 +12,6 @@
 
 [Writing Economic Theory Papers](http://www.econ.ucla.edu/sboard/teaching/contracts/WritingEconomicTheory.pdf) by Simon Board and Moritz Meyer-ter-Vehn
 
-[How to Build an Economic Model in Your Spare Time](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf) by Hal Varian
-
 [Three Templates for Introductions in Political Science Articles](http://www.andrewtlittle.com/papers/little_intros.pdf) by Andrew T. Little
 
 [Economic Writing: An Executive Summary](https://www.deirdremccloskey.com/docs/pdf/Article_309.pdf) by Deirdre McCloskey
@@ -64,6 +62,10 @@
 # 4. Academia 
 
 [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf) by David A. Patterson
+
+[How to Build an Economic Model in Your Spare Time](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf) by Hal Varian
+
+[How I Work](http://web.mit.edu/krugman/www/howiwork.html) by Paul Krugman
 
 [Tantalus on the Road to Asymptopia](http://www.anderson.ucla.edu/faculty_pages/edward.leamer/selected_research/Tantalus%20by%20Leamer.pdf) by Edward E. Leamer
 
