@@ -63,6 +63,8 @@
 
 [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf) by David A. Patterson
 
+[Ph.D. Thesis Research: Where do I Start?](http://www.columbia.edu/~drd28/Thesis%20Research.pdf) by Don Davis
+
 [How to Build an Economic Model in Your Spare Time](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf) by Hal Varian
 
 [How I Work](http://web.mit.edu/krugman/www/howiwork.html) by Paul Krugman
