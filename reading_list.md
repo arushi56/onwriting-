@@ -63,4 +63,6 @@
 
 [Tantalus on the Road to Asymptopia](http://www.anderson.ucla.edu/faculty_pages/edward.leamer/selected_research/Tantalus%20by%20Leamer.pdf) by Edward E. Leamer
 
-[Cargo Cult Science (a.k.a. Feynman Integrity)](http://calteches.library.caltech.edu/51/2/CargoCult.htm) By Richard Feynman 
+[Cargo Cult Science (a.k.a. Feynman Integrity)](http://calteches.library.caltech.edu/51/2/CargoCult.htm) By Richard Feynman
+
+[The Standard Error of Regressions](https://faculty.smu.edu/millimet/classes/eco7377/papers/mccloskey%20ziliak.pdf) by Deirdre N. McCloskey and Stephen T. Ziliak 
