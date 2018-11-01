@@ -1,4 +1,6 @@
 
+> Je n'ai fait celle-ci plus longue que parce que je n'ai pas eu le loisir de la faire plus courte.
+
 # 1. Writing papers and proposals 
 
 ## 1.1. Papers 
