@@ -1,5 +1,7 @@
 
-> Je n'ai fait celle-ci plus longue que parce que je n'ai pas eu le loisir de la faire plus courte.
+> Je n'ai fait celle-ci plus longue que parce que je n'ai pas eu le loisir de la faire plus courte. (I would have written a shorter letter, but I did not have the time.)
+
+- [Blaise Pascal](https://en.wikiquote.org/wiki/Blaise_Pascal)
 
 # 1. Writing papers and proposals 
 
