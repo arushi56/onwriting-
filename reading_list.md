@@ -67,6 +67,8 @@
 
 [How I Work](http://web.mit.edu/krugman/www/howiwork.html) by Paul Krugman
 
+[How to Do Empirical Economics](http://www.crest.fr/ckfinder/userfiles/files/pageperso/kramarz/v30i2a1.pdf) by Francis Kramarz, et al.
+
 [Tantalus on the Road to Asymptopia](http://www.anderson.ucla.edu/faculty_pages/edward.leamer/selected_research/Tantalus%20by%20Leamer.pdf) by Edward E. Leamer
 
 [Cargo Cult Science (a.k.a. Feynman Integrity)](http://calteches.library.caltech.edu/51/2/CargoCult.htm) By Richard Feynman
