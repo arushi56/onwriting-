@@ -14,6 +14,8 @@
 
 [Fuck Nuance](https://kieranhealy.org/files/papers/fuck-nuance.pdf) by Kieran Healy 
 
+[Why I Hate Passive Verbs and Love My Word Processor](http://people.stern.nyu.edu/wstarbuc/Writing/Fussy.htm) by William H. Starbuck
+
 ## 1.2. Proposals 
 
 [On the Art of Writing Proposals](https://www.ssrc.org/publications/view/7A9CB4F4-815F-DE11-BD80-001CC477EC70/) by Adam Przeworski and Frank Salomon
