@@ -16,6 +16,8 @@
 
 [Economic Writing: An Executive Summary](https://www.deirdremccloskey.com/docs/pdf/Article_309.pdf) by Deirdre McCloskey
 
+[The Young Economist's Guide to Professional Etiquette](http://www.unice.fr/sg/resources/docs/Hamermesh_A%20Young%20Economist's%20Guide%20to%20Professional%20Etiquette.pdf) by Daniel S. Hamermesh
+
 [Writing Research Papers](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/writing.pdf) by Aaron Hertzmann
 
 [Fuck Nuance](https://kieranhealy.org/files/papers/fuck-nuance.pdf) by Kieran Healy 
