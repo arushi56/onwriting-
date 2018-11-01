@@ -10,6 +10,8 @@
 
 [Writing Economic Theory Papers](http://www.econ.ucla.edu/sboard/teaching/contracts/WritingEconomicTheory.pdf) by Simon Board and Moritz Meyer-ter-Vehn
 
+[How to Build an Economic Model in Your Spare Time](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf) by Hal Varian
+
 [Three Templates for Introductions in Political Science Articles](http://www.andrewtlittle.com/papers/little_intros.pdf) by Andrew T. Little
 
 [Economic Writing: An Executive Summary](https://www.deirdremccloskey.com/docs/pdf/Article_309.pdf) by Deirdre McCloskey
