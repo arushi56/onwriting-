@@ -49,6 +49,10 @@
 
 [How to Give a Job Talk](https://huber.research.yale.edu/materials/HowToGiveAJobTalk.pdf) by Gregory Huber
 
+[Giving a Job Talk: Notes from the Field](https://thepoliticalmethodologist.com/2013/11/11/giving-a-job-talk-notes-from-the-field/) by the Political Methodologist
+
+[Job Talks](http://www.nyu.edu/projects/spirling/documents/jobtalks2017.pdf) by Arthur Spirling
+
 [The Job Talk and Campus Visit](http://sociology.berkeley.edu/sites/default/files/documents/job_market/4--%20job%20talk%20%26%20campus%20visit.pdf) by UC Berkeley Sociology 
 
 [Job talks](http://webcache.googleusercontent.com/search?q=cache:qX78OZELEZsJ:home.uchicago.edu/~lausland/docs/Jobtalks.doc+&cd=42&hl=en&ct=clnk&gl=us) by the University of Chicago
@@ -62,6 +66,8 @@
 # 4. Academia 
 
 [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf) by David A. Patterson
+
+[Graduate School is 1/3 George Strait, 1/3 Kayne West, and 1/3 Paula Radcliff](https://github.com/justingrimmer/Math18/blob/master/Kanye.pdf) by Justin Grimmer 
 
 [Ph.D. Thesis Research: Where do I Start?](http://www.columbia.edu/~drd28/Thesis%20Research.pdf) by Don Davis
 
