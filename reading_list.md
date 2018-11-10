@@ -6,19 +6,25 @@
 # 1. Writing papers and proposals 
 
 ## 1.1. Papers 
+
+### Political science
 [Caltech Rules for Writing Papers](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf) by Barry R. Weingast
 
 [Professional Writing in Political Science: A Highly Opinionated Essay](http://stimson.web.unc.edu/files/2018/02/Writing.pdf) by James A. Stimson
 
-[Writing Economic Theory Papers](http://www.econ.ucla.edu/sboard/teaching/contracts/WritingEconomicTheory.pdf) by Simon Board and Moritz Meyer-ter-Vehn
-
 [Three Templates for Introductions in Political Science Articles](http://www.andrewtlittle.com/papers/little_intros.pdf) by Andrew T. Little
+
+### Economics 
+[Writing Economic Theory Papers](http://www.econ.ucla.edu/sboard/teaching/contracts/WritingEconomicTheory.pdf) by Simon Board and Moritz Meyer-ter-Vehn
 
 [Economic Writing: An Executive Summary](https://www.deirdremccloskey.com/docs/pdf/Article_309.pdf) by Deirdre McCloskey
 
 [The Young Person's Gudie to Writing Economic Theory](https://econ.duke.edu/sites/econ.duke.edu/files/file-attachments/Thomson%2C%20William%20-%20Guide%20to%20Writing%20Economic%20Theory_0.pdf) by William Thomson
 
 [The Young Economist's Guide to Professional Etiquette](http://www.unice.fr/sg/resources/docs/Hamermesh_A%20Young%20Economist's%20Guide%20to%20Professional%20Etiquette.pdf) by Daniel S. Hamermesh
+
+### In general 
+[Rapoport's Rules (also Rappaport's Rules or Dennett's Rules) ](https://rationalwiki.org/wiki/Rapoport%27s_Rules) to avoid overcharacterization and backfire 
 
 [Writing Research Papers](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/writing.pdf) by Aaron Hertzmann
 
