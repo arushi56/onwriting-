@@ -79,6 +79,10 @@
 
 [Tips for Job Market](https://economics.harvard.edu/files/economics/files/jobmarketadvicehandout.doc.pdf) by Harvard Economics
 
+## 3.3 General tips on research communications 
+
+[Storytelling in research](https://www.nature.com/articles/s41551-018-0202-5) by Nature
+
 # 4. Academia 
 
 [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf) by David A. Patterson
