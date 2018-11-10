@@ -24,7 +24,8 @@
 [The Young Economist's Guide to Professional Etiquette](http://www.unice.fr/sg/resources/docs/Hamermesh_A%20Young%20Economist's%20Guide%20to%20Professional%20Etiquette.pdf) by Daniel S. Hamermesh
 
 ### In general 
-[Rapoport's Rules (also Rappaport's Rules or Dennett's Rules) ](https://rationalwiki.org/wiki/Rapoport%27s_Rules) to avoid overcharacterization and backfire 
+[Rapoport's Rules (also Rappaport's Rules or Dennett's Rules) ](https://rationalwiki.org/wiki/Rapoport%27s_Rules)
+- an engagement rule to avoid overcharacterization and backfire 
 
 [Writing Research Papers](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/writing.pdf) by Aaron Hertzmann
 
