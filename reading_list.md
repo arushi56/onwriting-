@@ -15,9 +15,8 @@
 [Three Templates for Introductions in Political Science Articles](http://www.andrewtlittle.com/papers/little_intros.pdf) by Andrew T. Little
 
 ### Economics 
-[Writing Economic Theory Papers](http://www.econ.ucla.edu/sboard/teaching/contracts/WritingEconomicTheory.pdf) by Simon Board and Moritz Meyer-ter-Vehn
 
-[Economic Writing: An Executive Summary](https://www.deirdremccloskey.com/docs/pdf/Article_309.pdf) by Deirdre McCloskey
+[Writing Economic Theory Papers](http://www.econ.ucla.edu/sboard/teaching/contracts/WritingEconomicTheory.pdf) by Simon Board and Moritz Meyer-ter-Vehn
 
 [The Young Person's Gudie to Writing Economic Theory](https://econ.duke.edu/sites/econ.duke.edu/files/file-attachments/Thomson%2C%20William%20-%20Guide%20to%20Writing%20Economic%20Theory_0.pdf) by William Thomson
 
@@ -36,6 +35,11 @@
 
 [Why I Hate Passive Verbs and Love My Word Processor](http://people.stern.nyu.edu/wstarbuc/Writing/Fussy.htm) by William H. Starbuck
 
+#### Printed books 
+
+[Writing with Style: Conversations on the Art of Writing](https://www.amazon.com/Writing-Style-Conversations-Art-3rd/dp/0205028802/ref=sr_1_3?ie=UTF8&qid=1541879649&sr=8-3&keywords=writing+with+the+style) by John R. Trimble
+
+[Economical Writing](https://www.amazon.com/Economical-Writing-Deirdre-McCloskey/dp/1577660633/ref=sr_1_1?ie=UTF8&qid=1541879736&sr=8-1&keywords=economic+writing) by Deirdre McCloskey 
 
 ## 1.2. Proposals 
 
