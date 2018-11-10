@@ -85,11 +85,17 @@
 
 # 4. Academia 
 
+## 4.1. Graduate school 
+
+[So you want to get into a political science Ph.D. program… Episode I](https://foreignpolicy.com/2012/03/18/so-you-want-to-get-into-a-political-science-ph-d-program-episode-i/) by Daniel Drezner
+
 [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf) by David A. Patterson
 
 [Graduate School is 1/3 George Strait, 1/3 Kayne West, and 1/3 Paula Radcliff](https://github.com/justingrimmer/Math18/blob/master/Kanye.pdf) by Justin Grimmer 
 
 [Ph.D. Thesis Research: Where do I Start?](http://www.columbia.edu/~drd28/Thesis%20Research.pdf) by Don Davis
+
+## 4.2. Beyond
 
 [How to Build an Economic Model in Your Spare Time](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf) by Hal Varian
 
