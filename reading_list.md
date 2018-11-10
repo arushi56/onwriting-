@@ -41,6 +41,8 @@
 
 [Economical Writing](https://www.amazon.com/Economical-Writing-Deirdre-McCloskey/dp/1577660633/ref=sr_1_1?ie=UTF8&qid=1541879736&sr=8-1&keywords=economic+writing) by Deirdre McCloskey 
 
+[A Rule for Arguments](https://www.amazon.com/Rulebook-Arguments-Anthony-Weston/dp/0872205525/ref=sr_1_4?ie=UTF8&qid=1541879870&sr=8-4&keywords=a+rule+four+arguments) by Anthony Western
+
 ## 1.2. Proposals 
 
 [On the Art of Writing Proposals](https://www.ssrc.org/publications/view/7A9CB4F4-815F-DE11-BD80-001CC477EC70/) by Adam Przeworski and Frank Salomon
