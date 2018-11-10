@@ -27,7 +27,6 @@
 #### Online sources 
 
 [Rapoport's Rules (also Rappaport's Rules or Dennett's Rules) ](https://rationalwiki.org/wiki/Rapoport%27s_Rules)
-- the rule of engagement for academics to avoid overcharacterization of other people's work 
 
 [Writing Research Papers](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/writing.pdf) by Aaron Hertzmann
 
@@ -42,6 +41,8 @@
 [Economical Writing](https://www.amazon.com/Economical-Writing-Deirdre-McCloskey/dp/1577660633/ref=sr_1_1?ie=UTF8&qid=1541879736&sr=8-1&keywords=economic+writing) by Deirdre McCloskey 
 
 [A Rule for Arguments](https://www.amazon.com/Rulebook-Arguments-Anthony-Weston/dp/0872205525/ref=sr_1_4?ie=UTF8&qid=1541879870&sr=8-4&keywords=a+rule+four+arguments) by Anthony Western
+
+[Intuition Pumps And Other Tools for Thinking](https://www.amazon.com/dp/B00AR354AQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Daniel C. Dennett
 
 ## 1.2. Proposals 
 
