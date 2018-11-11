@@ -51,18 +51,17 @@
 
 # 2. Data visualization
 
-## 2.1. In general 
-
-[Data Visualization: A Practical Introduction](https://socviz.co/index.html#preface) by Kieran Healy
-
-## 2.2. In papers
+## 2.1. In papers
 
 [An Economist's Guide to Visualizing Data](https://pubs.aeaweb.org/doi/pdf/10.1257/jep.28.1.209) by Jonathan A. Schwabish 
 
-## 2.3. In presentations 
+## 2.2. In presentations 
 
 [Making Slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/) by Kieran Healy
 
+## 2.3. In general 
+
+[Data Visualization: A Practical Introduction](https://socviz.co/index.html#preface) by Kieran Healy
 
 # 3. Presentations 
 
