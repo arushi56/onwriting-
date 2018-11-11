@@ -98,6 +98,7 @@
 
 ## 4.2. Beyond
 
+### Online sources
 [How to Build an Economic Model in Your Spare Time](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf) by Hal Varian
 
 [How I Work](http://web.mit.edu/krugman/www/howiwork.html) by Paul Krugman
@@ -109,3 +110,7 @@
 [Cargo Cult Science (a.k.a. Feynman Integrity)](http://calteches.library.caltech.edu/51/2/CargoCult.htm) By Richard Feynman
 
 [The Standard Error of Regressions](https://faculty.smu.edu/millimet/classes/eco7377/papers/mccloskey%20ziliak.pdf) by Deirdre N. McCloskey and Stephen T. Ziliak 
+
+### Printed books 
+
+[Passion and Craft: Economists at Work](https://www.amazon.com/Passion-Craft-Economists-at-Work/dp/0472066854) by Michael Szenberg
