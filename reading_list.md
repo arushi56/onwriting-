@@ -120,3 +120,4 @@
     
 [Worldly Philosopher: The Odyssey of Albert O. Hirschman](https://www.amazon.com/Worldly-Philosopher-Odyssey-Albert-Hirschman/dp/0691163499/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1541920310&sr=1-1-fkmr0&keywords=intellectual+odyssey+hirschman) by Jeremy Adelman
 
+[The Undoing Project: A Friendship That Changed Our Minds](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393354776/ref=sr_1_1?ie=UTF8&qid=1541921509&sr=8-1&keywords=the+undoing+project) by Michael Lewis 
