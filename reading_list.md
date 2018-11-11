@@ -99,9 +99,6 @@
 ## 4.2. Beyond
 
 ### Online sources
-[How to Build an Economic Model in Your Spare Time](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf) by Hal Varian
-
-[How I Work](http://web.mit.edu/krugman/www/howiwork.html) by Paul Krugman
 
 [How to Do Empirical Economics](http://www.crest.fr/ckfinder/userfiles/files/pageperso/kramarz/v30i2a1.pdf) by Francis Kramarz, et al.
 
@@ -113,4 +110,9 @@
 
 ### Printed books 
 
-[Passion and Craft: Economists at Work](https://www.amazon.com/Passion-Craft-Economists-at-Work/dp/0472066854) by Michael Szenberg
+[Passion and Craft: Economists at Work](https://www.amazon.com/Passion-Craft-Economists-at-Work/dp/0472066854) edited by Michael Szenberg
+
+- Some chapters are available online.
+    - [How to Build an Economic Model in Your Spare Time](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf) by Hal Varian
+    - [How I Work](http://web.mit.edu/krugman/www/howiwork.html) by Paul Krugman
+
