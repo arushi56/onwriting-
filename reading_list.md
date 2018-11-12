@@ -83,7 +83,7 @@
 
 [Tips for Job Market](https://economics.harvard.edu/files/economics/files/jobmarketadvicehandout.doc.pdf) by Harvard Economics
 
-## 3.3 General tips on research communications 
+## 3.3 General tips
 
 [Storytelling in research](https://www.nature.com/articles/s41551-018-0202-5) by Nature
 
