@@ -30,6 +30,8 @@
 
 [Writing Research Papers](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/writing.pdf) by Aaron Hertzmann
 
+[How to Write Mathematics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf) by P. R. Halmos 
+
 [Fuck Nuance](https://kieranhealy.org/files/papers/fuck-nuance.pdf) by Kieran Healy 
 
 [Why I Hate Passive Verbs and Love My Word Processor](http://people.stern.nyu.edu/wstarbuc/Writing/Fussy.htm) by William H. Starbuck
@@ -84,6 +86,8 @@
 [Tips for Job Market](https://economics.harvard.edu/files/economics/files/jobmarketadvicehandout.doc.pdf) by Harvard Economics
 
 ## 3.3 General tips
+
+[How to Talk Mathematics](https://faculty.washington.edu/heagerty/Courses/b572/public/HalmosHowToTalk.pdf) by P. R. Halmos
 
 [Storytelling in research](https://www.nature.com/articles/s41551-018-0202-5) by Nature
 
