@@ -30,7 +30,7 @@
 
 [Writing Research Papers](http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/writing.pdf) by Aaron Hertzmann
 
-[How to Write Mathematics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf) by P. R. Halmos 
+[How to Write Mathematics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf) by Paul R. Halmos 
 
 [Fuck Nuance](https://kieranhealy.org/files/papers/fuck-nuance.pdf) by Kieran Healy 
 
@@ -87,7 +87,7 @@
 
 ## 3.3 General tips
 
-[How to Talk Mathematics](https://faculty.washington.edu/heagerty/Courses/b572/public/HalmosHowToTalk.pdf) by P. R. Halmos
+[How to Talk Mathematics](https://faculty.washington.edu/heagerty/Courses/b572/public/HalmosHowToTalk.pdf) by Paul R. Halmos
 
 [Storytelling in research](https://www.nature.com/articles/s41551-018-0202-5) by Nature
 
