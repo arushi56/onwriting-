@@ -109,6 +109,8 @@
 
 [Some Notes on the Art of Theoretical Modeling in Economics](https://www.princeton.edu/~dixitak/Teaching/ArtOfModeling.pdf) by Avinash Dixit
 
+[Two Cheers for Formalism](http://web.mit.edu/krugman/www/formal.html) by Paul Krugman
+
 [How to Do Empirical Economics](http://www.crest.fr/ckfinder/userfiles/files/pageperso/kramarz/v30i2a1.pdf) by Francis Kramarz, et al.
 
 [Tantalus on the Road to Asymptopia](http://www.anderson.ucla.edu/faculty_pages/edward.leamer/selected_research/Tantalus%20by%20Leamer.pdf) by Edward E. Leamer
