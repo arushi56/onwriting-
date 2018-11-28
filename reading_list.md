@@ -24,7 +24,7 @@
 
 ### Psychology 
 
-[Writign the Empirical Journal Article](https://psychology.yale.edu/sites/default/files/bemempirical.pdf) by Daryl J. bem 
+[Writing the Empirical Journal Article](https://psychology.yale.edu/sites/default/files/bemempirical.pdf) by Daryl J. Bem 
 
 ### In general 
 
