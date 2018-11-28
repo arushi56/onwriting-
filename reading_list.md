@@ -22,6 +22,10 @@
 
 [The Young Economist's Guide to Professional Etiquette](http://www.unice.fr/sg/resources/docs/Hamermesh_A%20Young%20Economist's%20Guide%20to%20Professional%20Etiquette.pdf) by Daniel S. Hamermesh
 
+### Psychology 
+
+[Writign the Empirical Journal Article](https://psychology.yale.edu/sites/default/files/bemempirical.pdf) by Daryl J. bem 
+
 ### In general 
 
 #### Online sources 
