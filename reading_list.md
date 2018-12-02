@@ -3,6 +3,10 @@
 
 -- [Blaise Pascal](https://en.wikiquote.org/wiki/Blaise_Pascal)
 
+> Don't expect your reader to accept a piece of writing that you wouldn't accept yourself.
+
+-- Donald H. Ross
+
 # 1. Writing papers and proposals 
 
 ## 1.1. Papers 
