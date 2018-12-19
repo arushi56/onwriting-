@@ -121,6 +121,8 @@
 
 [How to Do Empirical Economics](http://www.crest.fr/ckfinder/userfiles/files/pageperso/kramarz/v30i2a1.pdf) by Francis Kramarz, et al.
 
+[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) by Paul Lockhart 
+
 [Tantalus on the Road to Asymptopia](http://www.anderson.ucla.edu/faculty_pages/edward.leamer/selected_research/Tantalus%20by%20Leamer.pdf) by Edward E. Leamer
 
 [Cargo Cult Science (a.k.a. Feynman Integrity)](http://calteches.library.caltech.edu/51/2/CargoCult.htm) by Richard Feynman
@@ -139,8 +141,6 @@
     - [How to Build an Economic Model in Your Spare Time](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf) by Hal Varian
     - [How I Work](http://web.mit.edu/krugman/www/howiwork.html) by Paul Krugman
     
-[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) by Paul Lockhart 
-
 [Worldly Philosopher: The Odyssey of Albert O. Hirschman](https://www.amazon.com/Worldly-Philosopher-Odyssey-Albert-Hirschman/dp/0691163499/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1541920310&sr=1-1-fkmr0&keywords=intellectual+odyssey+hirschman) by Jeremy Adelman
 
 [The Undoing Project: A Friendship That Changed Our Minds](https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393354776/ref=sr_1_1?ie=UTF8&qid=1541921509&sr=8-1&keywords=the+undoing+project) by Michael Lewis 
