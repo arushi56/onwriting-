@@ -139,7 +139,7 @@
     - [How to Build an Economic Model in Your Spare Time](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf) by Hal Varian
     - [How I Work](http://web.mit.edu/krugman/www/howiwork.html) by Paul Krugman
     
-[A Mathematician's Lament] by Paul Lockhart 
+[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) by Paul Lockhart 
 
 [Worldly Philosopher: The Odyssey of Albert O. Hirschman](https://www.amazon.com/Worldly-Philosopher-Odyssey-Albert-Hirschman/dp/0691163499/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1541920310&sr=1-1-fkmr0&keywords=intellectual+odyssey+hirschman) by Jeremy Adelman
 
