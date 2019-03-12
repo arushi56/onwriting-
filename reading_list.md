@@ -133,6 +133,8 @@
 
 ### Printed books 
 
+[The Book of Why](https://www.amazon.com/s?k=the+book+of+why&hvadid=241621363130&hvdev=c&hvlocphy=9060284&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=897961072170156175&hvtargid=kwd-814458155&tag=googhydr-20&ref=pd_sl_7dzxow1sir_e) by Judea Pearl
+
 [Passion, Craft, and Methods in Comparative Politics](https://www.amazon.com/Passion-Craft-Method-Comparative-Politics/dp/0801884640/ref=sr_1_1?s=books&ie=UTF8&qid=1541920223&sr=1-1&keywords=passion+craft+political+scientists) edited by Gerardo L. Munck and Richard Snyder
 
 [Passion and Craft: Economists at Work](https://www.amazon.com/Passion-Craft-Economists-at-Work/dp/0472066854) edited by Michael Szenberg
