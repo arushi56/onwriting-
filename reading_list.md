@@ -46,6 +46,8 @@
 
 #### Printed books 
 
+[Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success](https://www.amazon.com/Writing-Your-Journal-Twelve-Weeks/dp/141295701X/ref=sr_1_1?crid=F1D8YO1ANB2Q&keywords=writing+your+journal+article+in+12+weeks+by+wendy+laura+belcher&qid=1553028544&s=gateway&sprefix=wendy+writing%2Caps%2C175&sr=8-1) by Wendy Laura Belcher
+
 [Writing with Style: Conversations on the Art of Writing](https://www.amazon.com/Writing-Style-Conversations-Art-3rd/dp/0205028802/ref=sr_1_3?ie=UTF8&qid=1541879649&sr=8-3&keywords=writing+with+the+style) by John R. Trimble
 
 [Economical Writing](https://www.amazon.com/Economical-Writing-Deirdre-McCloskey/dp/1577660633/ref=sr_1_1?ie=UTF8&qid=1541879736&sr=8-1&keywords=economic+writing) by Deirdre McCloskey 
