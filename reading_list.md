@@ -40,7 +40,7 @@
 
 [How to Write Mathematics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf) by Paul R. Halmos 
 
-[*** Nuance](https://kieranhealy.org/files/papers/***-nuance.pdf) by Kieran Healy 
+[**** Nuance](https://kieranhealy.org/files/papers/***-nuance.pdf) by Kieran Healy 
 
 [Why I Hate Passive Verbs and Love My Word Processor](http://people.stern.nyu.edu/wstarbuc/Writing/Fussy.htm) by William H. Starbuck
 
