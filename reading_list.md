@@ -115,7 +115,7 @@
 
 ## 4.2. The Job Market
 
-[Reflections on my tenure-track assistant professor job search] by Philip J. Guo
+[Reflections on my tenure-track assistant professor job search](http://www.pgbovine.net/guo-faculty-job-search.pdf) by Philip J. Guo
 
 ## 4.3. Beyond
 
