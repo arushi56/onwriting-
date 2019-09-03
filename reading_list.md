@@ -40,7 +40,7 @@
 
 [How to Write Mathematics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf) by Paul R. Halmos 
 
-[Fuck Nuance](https://kieranhealy.org/files/papers/fuck-nuance.pdf) by Kieran Healy 
+[*** Nuance](https://kieranhealy.org/files/papers/***-nuance.pdf) by Kieran Healy 
 
 [Why I Hate Passive Verbs and Love My Word Processor](http://people.stern.nyu.edu/wstarbuc/Writing/Fussy.htm) by William H. Starbuck
 
@@ -113,7 +113,11 @@
 
 [Ph.D. Thesis Research: Where do I Start?](http://www.columbia.edu/~drd28/Thesis%20Research.pdf) by Don Davis
 
-## 4.2. Beyond
+## 4.2. The Job Market
+
+[Reflections on my tenure-track assistant professor job search] by Philip J. Guo
+
+## 4.3. Beyond
 
 ### Online sources
 
