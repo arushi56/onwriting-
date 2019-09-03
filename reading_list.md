@@ -81,7 +81,7 @@
 
 [How to Give a Job Talk](https://huber.research.yale.edu/materials/HowToGiveAJobTalk.pdf) by Gregory Huber
 
-[Giving a Job Talk: Notes from the Field](https://thepoliticalmethodologist.com/2013/11/11/giving-a-job-talk-notes-from-the-field/) by the Political Methodologist
+[Giving a Job Talk: Notes from the Field](https://thepoliticalmethodologist.com/2013/11/11/giving-a-job-talk-notes-from-the-field/) by Arthur Spirling
 
 [Job Talks](http://www.nyu.edu/projects/spirling/documents/jobtalks2017.pdf) by Arthur Spirling
 
